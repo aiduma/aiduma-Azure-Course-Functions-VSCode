@@ -5,7 +5,7 @@
     <RootNamespace>AZURE_COURSE_FUNCTIONS</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Storage" Version="5.3.0" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Storage" Version="5.2.1" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.4.0" />
   </ItemGroup>
   <ItemGroup>
