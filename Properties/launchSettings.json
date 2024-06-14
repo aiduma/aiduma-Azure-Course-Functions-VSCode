@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AZURE_COURSE_FUNCTIONS": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7283",
+      "launchBrowser": false
+    }
+  }
+}
